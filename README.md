@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-👋 Hello, I'm Rushikesh!<br>🎓 I'm a second-year computer engineering student at Goa College of Engineering, India, with a passion for software development.<br>💻 Currently, I'm focused on up skilling in frontend and backend technologies to create intuitive and user-friendly web applications.<br>🚀 Aspiring to be a software engineer, I'm enthusiastic about learning and building great software that solves real-world problems.<br>🌟 Let's connect and learn together as we journey through the exciting world of coding and development!
+👋 Hello, I'm Rushikesh!<br>🎓 I'm a third-year computer engineering student at Goa College of Engineering, India, with a passion for software development.<br>💻 Currently, I'm focused on up skilling in frontend and backend technologies to create intuitive and user-friendly web applications.<br>🚀 Aspiring to be a software engineer, I'm enthusiastic about learning and building great software that solves real-world problems.<br>🌟 Let's connect and learn together as we journey through the exciting world of coding and development!
 
 
 ## 🌐 Socials:
