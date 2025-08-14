@@ -24,5 +24,3 @@ I am a Computer Engineering student at Goa College of Engineering and a passiona
 [![](https://visitcount.itsvg.in/api?id=Rushikesh-24&icon=0&color=12)](https://visitcount.itsvg.in)
 
 <!-- [![My Skills](https://skillicons.dev/icons?i=bootstrap,bun,c,cpp,css,dart,discord,docker,express,figma,firebase,flutter,git,github,gmail,html,instagram,java,js,linkedin,linux,mongodb,mysql,nextjs,nodejs,notion,npm,php,postman,py,react,sqlite,swift,tailwind,tensorflow,ts,ubuntu,vercel,vite,vscode,)](https://skillicons.dev) -->
-
-<img src="https://raw.githubusercontent.com/Rushikesh-24/Rushikesh-24/output/snake.svg" alt="Snake animation" />
